@@ -1,3 +1,10 @@
-# My Awesome Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+# ERRATA.
+
+
+
+PAge 33. line 28. for Pride, read Proud, &c. l. 34. for regulate, r. regular. l. 35. blot out by.
+
+P. 35. l. last, f. they, r. we, and f. thereby, r. there••
+
